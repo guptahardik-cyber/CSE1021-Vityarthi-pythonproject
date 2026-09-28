@@ -218,6 +218,8 @@ It is a simple Python simulation and is not intended for use in real public elec
 👨‍💻 Author
 
 Hardik Vivek Gupta
+
 Reg no-26MEI10085
+
 Integrated M.Tech — Cybersecurity
 
