@@ -1,0 +1,7 @@
+DIGITAL VOTING SYSTEM - FINAL RESULTS
+========================================
+candidate-1: 2 votes (50.0%)
+candidate-2: 1 votes (25.0%)
+candidate-3: 1 votes (25.0%)
+
+Total votes: 4
