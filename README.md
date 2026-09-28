@@ -96,11 +96,16 @@ File handling
 📂 Project Structure
 
 Digital-Voting-System/
+
 │
 ├── main.py
+
 ├── README.md
+
 ├── statement.md
+
 ├── voting_results.txt
+
 └── Testing screenshots/
     └── Testing screenshots
 
@@ -180,7 +185,9 @@ Example results:
 ----- LIVE RESULTS -----
 
 candidate-1 |   2 votes ( 50.0%) ##
+
 candidate-2 |   1 votes ( 25.0%) #
+
 candidate-3 |   1 votes ( 25.0%) #
 
 Total votes cast: 4
